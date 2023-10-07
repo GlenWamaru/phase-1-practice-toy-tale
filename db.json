@@ -47,6 +47,16 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "id": 9,
+      "name": "Mrs. Potato Head",
+      "image": "https://pixar.fandom.com/wiki/Mrs._Potato_Head?file=BEST+MRS.POTATO+HEAD+EVER.png",
+      "likes": 6
+
+    },
+    {
+      "id": 10
     }
   ]
 }
